@@ -1,0 +1,12 @@
+# Exemplo de definição de um número par de modo recursivo
+#
+# Autor: Fabrício Galende marques de carvalho
+
+
+class NumeroParPositivo:
+    def n_esimo_par(self, n):
+        if n == 1:
+            return 2
+        else:
+            return ( 2 + self.n_esimo_par(n-1) )
+
