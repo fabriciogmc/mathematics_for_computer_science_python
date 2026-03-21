@@ -6,6 +6,8 @@
 <h3> Estrutura de pastas: </h3>
 
 <ul>
+    <li><strong>conjuntos/:</strong> Exemplos de criação e utilização de conjuntos
+    numéricos, incluindo tipos e operações. </li>
     <li><strong>definicoes/:</strong> Exemplos de definições matemáticas, incluindo
     definições enumerativas, recursivas e gênero-diferença. </li>
 </ul>
